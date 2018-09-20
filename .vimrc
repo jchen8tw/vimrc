@@ -11,6 +11,7 @@ set nocompatible
  
 "#######################################################
 syntax enable
+set clipboard=unnamed
 set number
 set noruler
 set ignorecase
